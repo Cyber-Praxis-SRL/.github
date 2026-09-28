@@ -3,13 +3,13 @@
 **Cybersecurity • Digital Forensics • Data Protection • Compliance**
 
 Cyber Praxis SRL is a Belgian cybersecurity and data protection company
-providing professional services and developing cybersecurity, compliance
-and governance solutions.
+providing professional services and developing cybersecurity, compliance,
+and governance solutions for organizations in Belgium and across Europe.
 
 ## 🛡️ Our Expertise
 
 - Cybersecurity & Information Security
-- ISO/IEC 27001
+- ISO/IEC 27001 & Information Security Management Systems
 - NIS2 & CyberFundamentals Framework (CyFun)
 - GDPR & Data Protection
 - Digital Forensics & Incident Response
@@ -20,16 +20,20 @@ and governance solutions.
 
 ## 💻 Software Solutions
 
-Cyber Praxis develops professional software solutions to help
-organizations manage cybersecurity, compliance and regulatory requirements.
+Cyber Praxis develops professional software solutions designed to help
+organizations manage cybersecurity, compliance, risk, and regulatory
+requirements.
 
 Our solutions cover:
 
-- GDPR management
-- ISMS / ISO 27001 management
-- NIS2 & CyFun compliance
+- GDPR & privacy management
+- ISMS & ISO/IEC 27001 management
+- NIS2 & CyberFundamentals (CyFun) compliance
 - Cybersecurity risk management
-- AI governance
+- AI governance & EU AI Act compliance
+
+Our software solutions are developed with a focus on security,
+data protection, traceability, and regulatory compliance.
 
 ## 🔐 Security
 
@@ -40,11 +44,12 @@ application or service, please contact us privately.
 
 📧 security@cyberpraxis.eu
 
-## 🏢 Cyber Praxis SRL
+## 🏢 About Cyber Praxis
 
+**Cyber Praxis SRL**  
 🇧🇪 Belgium
 
-**ISO/IEC 27001:2022 certified**
+**ISO/IEC 27001:2022 certified organization**
 
-🌐 https://www.cyberpraxis.eu  
+🌐 [www.cyberpraxis.eu](https://www.cyberpraxis.eu)  
 📧 info@cyberpraxis.eu
